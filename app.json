@@ -1,0 +1,12 @@
+{
+  "name": "SM_TB",
+  "displayName": "SM_TB",
+  "expo": {
+    "name": "SM_TB",
+    "slug": "SM_TB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
